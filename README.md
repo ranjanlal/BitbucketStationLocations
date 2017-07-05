@@ -9,3 +9,4 @@ feature - 1 : Commit 2 for feature
 feature - 1 : Done Feature-1. Final commit
 
 feature - 2 : First commit
+feature - 2 : do stuff implement logic
